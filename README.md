@@ -1,4 +1,4 @@
-# Fritzbox-Password-reset-without-Password-etc.
+# Fritzbox-Password-reset-without-Password-etc
 This is a skript for reseting a Fritzbox @ Bootup by bypassing the Loader itself of the OS
 you can also type this in to the CMD for sure but its easyer ;) but with the skript you will have access as a TXT file to
 
