@@ -1,0 +1,10 @@
+open 192.168.178.1
+adam2
+adam2
+
+quote getenv webgui_pass
+quote getenv wlan_key
+quote getenv wlan_ssid
+
+quote reboot
+bye
