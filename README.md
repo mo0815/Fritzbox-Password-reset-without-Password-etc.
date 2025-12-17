@@ -32,7 +32,7 @@ VORAUSSETZUNGEN
 - Windows (CMD / Batch)
 - Direkte LAN-Verbindung PC ↔ FRITZ!Box (kein Switch, kein VLAN)
 - Statische IP am PC empfohlen (z. B. 192.168.178.2 / 255.255.255.0)
-- Windows-FTP (ftp.exe)
+- Windows-FTP Zugang CMD o.ä.
 
 
 DATEIEN
